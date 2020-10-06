@@ -10,7 +10,10 @@ Author: Alan Lee <alleetw101@gmail.com>
 
 
 
-## Technical Specifications
+## Specifications
 ### Project
 
-### Hardware
+- Python 3.8
+- Tensorflow 2.3
+
+### Technical
