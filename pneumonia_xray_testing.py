@@ -1,3 +1,7 @@
+# Name: pneumonia_xray_testing
+# Author(s): Alan Lee <alleetw101@gmail.com>
+# Version: Testing
+
 import pathlib
 import tensorflow as tf
 from tensorflow.keras import layers
