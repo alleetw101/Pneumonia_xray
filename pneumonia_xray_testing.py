@@ -1,5 +1,5 @@
 # Name: pneumonia_xray_testing
-# Author(s): Alan Lee <alleetw101@gmail.com>
+# Author: Alan Lee <alleetw101@gmail.com>
 # Version: Testing
 
 import pathlib

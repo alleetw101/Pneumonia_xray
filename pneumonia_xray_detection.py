@@ -1,5 +1,5 @@
 # Name: pneumonia_xray_detection
-# Author(s): Alan Lee <alleetw101@gmail.com>
+# Author: Alan Lee <alleetw101@gmail.com>
 # Version: 1.x
 
 import pathlib
