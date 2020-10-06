@@ -89,7 +89,7 @@ model = tf.keras.Sequential([
     layers.Dense(128, activation=ACTIVATION, kernel_regularizer=REGULARIZER),
     layers.Dense(2)
 ])
-# testing
+
 model.compile(
     optimizer='adam',
     loss=tf.losses.SparseCategoricalCrossentropy(from_logits=True),
